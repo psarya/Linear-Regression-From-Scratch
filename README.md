@@ -236,7 +236,7 @@ Linear-Regression-From-Scratch/
 Clone the GitHub repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/psarya/Linear-Regression-From-Scratch.git
 ```
 
 Navigate to the project directory:
