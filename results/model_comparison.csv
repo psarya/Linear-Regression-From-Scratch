@@ -1,0 +1,4 @@
+Model,Features,Test_MSE,Test_R2
+Simple Linear Regression,1,0.7091157771765548,0.45885918903846656
+Multiple Linear Regression,8,0.5558926986491989,0.575786866635001
+Scikit-Learn Linear Regression,8,0.5558915986952442,0.575787706032451
